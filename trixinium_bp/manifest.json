@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Trixinium BP",
+		"description": "Addon Trixinium -- Made by Draxtoze",
+		"uuid": "e87a9aa3-e0ea-4ba6-98e3-3509c540235c",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "a245302e-6dd2-46a8-a1ac-8af99e49cfc4",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+		  "uuid": "fd2e3516-f448-4609-827f-b08c3bffce05",
+		  "version": [1, 0, 0]
+		}
+	  ]	  
+}
