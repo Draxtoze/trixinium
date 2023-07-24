@@ -2,5 +2,29 @@
 	"resource_pack_name": "Trixinium RP",
 	"texture_name": "atlas.items",
 	"texture_data": {
+		"emerald_boots": {
+			"textures": "textures/items/emerald_boots"
+		},
+		"emerald_leggings": {
+			"textures": "textures/items/emerald_leggings"
+		},
+		"emerald_chestplate": {
+			"textures": "textures/items/emerald_chestplate"
+		},
+		"emerald_helmet": {
+			"textures": "textures/items/emerald_helmet"
+		},
+		"caramel": {
+			"textures": "textures/items/caramel"
+		},
+		"cooked_carrot": {
+			"textures": "textures/items/cooked_carrot"
+		},
+		"grilled_apple": {
+			"textures": "textures/items/grilled_apple"
+		},
+		"fried_egg": {
+			"textures": "textures/items/fried_egg"
+		}
     }
 }
