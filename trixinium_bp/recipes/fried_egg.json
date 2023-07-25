@@ -1,18 +1,14 @@
 {
-    "format_version": "1.12.00",
-    "minecraft:recipe_furnace": {
-        "description": {
-            "identifier": "trixd:fried_egg"
-        },
-        "tags": [
-            "furnace",
-            "smoker"
-        ],
-        "input": {
-            "item": "minecraft:egg",
-            "data": 0,
-            "count": 1
-        },
-        "output ": "trixd:fried_egg"
-    }
+	"format_version": "1.17.41",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "trixd:fried_egg"
+		},
+		"tags": ["furnace", "smoker"],
+		"input": "minecraft:egg",
+		"output": {
+			"item": "trixd:fried_egg",
+			"count": 1
+		}
+	}
 }
