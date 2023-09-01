@@ -1,0 +1,20 @@
+{
+    "format_version": "1.17.41",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "trixd:demi_baguette"
+        },
+        "tags": [
+            "construction_bench"
+        ],
+        "ingredients": [
+            {
+                "item": "trixd:baguette"
+            }
+        ],
+        "result": {
+            "item": "trixd:demi_baguette",
+            "count": 2
+        }
+    }
+}

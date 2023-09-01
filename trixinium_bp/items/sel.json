@@ -2,23 +2,13 @@
     "format_version": "1.16.100",
     "minecraft:item": {
         "description": {
-            "identifier": "trixd:grilled_apple",
-            "category": "Equipment"
+            "identifier": "trixd:sel",
+            "category": "Items"
         },
         "components": {
-			"minecraft:max_stack_size": 64,
+            "minecraft:max_stack_size": 64,
             "minecraft:icon": {
-                "texture": "grilled_apple"
-            },
-            "minecraft:use_duration": 1.6,
-            "minecraft:food": {
-                "nutrition": 6,
-                "saturation_modifier": "normal",
-                "can_always_eat": false
-            },
-            "minecraft:use_animation": "eat",
-            "minecraft:creative_category": {
-                "parent": "itemGroup.name.cookedFood"
+                "texture": "sel"
             },
             "minecraft:render_offsets": {
 				"main_hand": {

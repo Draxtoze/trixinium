@@ -1,0 +1,21 @@
+{
+	"format_version": "1.17.41",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "trixd:baguette"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+			"SIS"
+		],
+		"key": {
+			"S": "minecraft:wheat",
+			"I": "trixd:sel"
+		},
+		"result": [
+			{
+				"item": "trixd:baguette"
+			}
+		]
+	}
+}

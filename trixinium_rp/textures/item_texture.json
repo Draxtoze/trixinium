@@ -25,6 +25,36 @@
 		},
 		"fried_egg": {
 			"textures": "textures/items/fried_egg"
+		},
+		"bacon_cru": {
+			"textures": "textures/items/bacon_cru"
+		},
+		"bacon_cuit": {
+			"textures": "textures/items/bacon_cuit"
+		},
+		"baguette": {
+			"textures": "textures/items/baguette"
+		},
+		"chair_putrifier": {
+			"textures": "textures/items/chair_putrifier"
+		},
+		"demi_baguette": {
+			"textures": "textures/items/demi_baguette"
+		},
+		"jambon_cru": {
+			"textures": "textures/items/jambon_cru"
+		},
+		"jambon_cuit": {
+			"textures": "textures/items/jambon_cuit"
+		},
+		"prune": {
+			"textures": "textures/items/prune"
+		},
+		"prune_cuite": {
+			"textures": "textures/items/prune_cuite"
+		},
+		"sel": {
+			"textures": "textures/items/sel"
 		}
     }
 }

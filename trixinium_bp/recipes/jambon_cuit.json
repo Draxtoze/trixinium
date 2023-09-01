@@ -1,0 +1,14 @@
+{
+	"format_version": "1.17.41",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "trixd:jambon_cuit"
+		},
+		"tags": ["furnace", "smoker"],
+		"input": "trixd:jambon_cru",
+		"output": {
+			"item": "trixd:jambon_cuit",
+			"count": 1
+		}
+	}
+}

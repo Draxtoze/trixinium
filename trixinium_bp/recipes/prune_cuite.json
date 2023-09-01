@@ -1,0 +1,14 @@
+{
+	"format_version": "1.17.41",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "trixd:prune_cuite"
+		},
+		"tags": ["furnace", "smoker"],
+		"input": "trixd:prune",
+		"output": {
+			"item": "trixd:prune_cuite",
+			"count": 1
+		}
+	}
+}

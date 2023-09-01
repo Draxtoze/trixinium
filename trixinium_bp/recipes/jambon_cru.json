@@ -1,0 +1,19 @@
+{
+	"format_version": "1.17.41",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "trixd:jambon_cru"
+		},
+		"tags": ["construction_bench"],
+		"ingredients": [
+			{
+				"item": "minecraft:porkchop",
+				"count": 2
+			}
+		],
+		"result": {
+			"item": "trixd:jambon_cru",
+			"count": 6
+		}
+	}
+}
